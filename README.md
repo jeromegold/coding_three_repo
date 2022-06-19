@@ -1,5 +1,7 @@
 # Coding Three Project
 
+https://github.com/jeromegold/coding_three_repo
+
 **Overview**
 
 The aim of the project was to use machine learning tools to generate an instagram image of an "influencer" and assess whether this generated image is
