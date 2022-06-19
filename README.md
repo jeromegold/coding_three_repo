@@ -1,7 +1,5 @@
 # Coding Three Project
 
-This is the repository for the Coding Three Project.
-
 **Overview**
 
 The aim of the project was to use machine learning tools to generate an instagram image of an "influencer" and assess whether this generated image is 
