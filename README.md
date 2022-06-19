@@ -9,7 +9,7 @@ close to visually realistic.
 
 **Overall Result**
 
-If failed in my aim. The reasons will be discussed further.
+I failed in my aim. The reasons will be discussed further.
 
 **References**
 
@@ -21,7 +21,7 @@ A reference list is porivded at the end of the doucment and the Jupyter notebook
 
 **Introduction:** 
 
-
+The image generator DALL-E has been in the news lately ("From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art", The Guardian 18.6.2022).
 
 
 
