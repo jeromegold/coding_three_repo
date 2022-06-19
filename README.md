@@ -20,3 +20,14 @@ A reference list is porivded at the end of the doucment and the Jupyter notebook
 -----------------------------------------------------------------------------------------------------
 
 **Introduction:** 
+
+
+
+
+
+References:
+
+1. StyleGan-ADA implementation https://keras.io/examples/generative/gan_ada/
+2. DCGAN implementationw https://keras.io/examples/generative/dcgan_overriding_train_step/
+3. Webscraping Instagram using Selenium https://towardsdev.com/web-scrapping-instagram-with-python-selenium-11229e1b075
+4. Instagram
