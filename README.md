@@ -31,3 +31,4 @@ References:
 2. DCGAN implementationw https://keras.io/examples/generative/dcgan_overriding_train_step/
 3. Webscraping Instagram using Selenium https://towardsdev.com/web-scrapping-instagram-with-python-selenium-11229e1b075
 4. Instagram
+5. AI in Media lecture notes UAL
