@@ -39,7 +39,10 @@ A question I asked was whether generative techniques can be used to generate Ins
 
 **Method**
 
-Obtaining images from instagram
+*Scraping images from instagram*
+
+I investigated a few ways to scrape for instagram images.
+
 
 
 References:
