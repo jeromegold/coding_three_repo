@@ -17,6 +17,7 @@ A reference list is porivded at the end of the doucment and the Jupyter notebook
 
 **Video Location**
 
+https://youtu.be/Kn7cMbV5Upo
 -----------------------------------------------------------------------------------------------------
 
 **Introduction:**
