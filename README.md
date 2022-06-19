@@ -21,7 +21,7 @@ A reference list is porivded at the end of the doucment and the Jupyter notebook
 
 **Introduction:** 
 
-The image generator DALL-E has been in the news lately ("From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art", The Guardian 18.6.2022).
+The image generator DALL-E has been in the news lately ("From Trump Nevermind babies to deep fakes: DALL-E and the ethics of AI art", The Guardian 18.6.2022). Opinions regarding the use cases and benefit of DALL-E to society tend to vary. 
 
 
 
